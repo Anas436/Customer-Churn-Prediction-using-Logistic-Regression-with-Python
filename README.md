@@ -1,1 +1,1 @@
-# Customer-Churn-Prediction-using-Logistic-Regression-with-Python-
+# Customer-Churn-Prediction-using-Logistic-Regression-with-Python
